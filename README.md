@@ -1,7 +1,7 @@
 <!-- <h3 align="center">It’s not a bug. It’s an undocumented feature!</h3> -->
 <h2> Hello Fellow < Coders /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
 <br><hr>
-<div size='20px'> Hi! My name is Harashnabin. Thank You for taking the time to view my GitHub Profile</div>
+<div size='20px'> Hi! My name is Srinaath. Thank You for taking the time to view my GitHub Profile</div>
 </h1>
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=HarashnabinRoy.HarashnabinRoy) -->
 <!-- ![Github](https://img.shields.io/github/followers/HarashnabinRoy?label=Follow&style=social)](https://github.com/HarashnabinRoy) -->
@@ -19,13 +19,13 @@
 
 - 💬 Ask me about **React, Vanilla JS**
 
-- 📫 How to reach me **harashnabin2002@gmail.com**
+- 📫 How to reach me **srinaath2002@gmail.com**
 
 <br>
 
 <h1 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/harashnabin-roy-8893731b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harashnabin Roy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harashnabin-roy-8893731b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srinaath Narasimhan" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -35,10 +35,10 @@
 
 <br>
 
-&nbsp;![Harashnabin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HarashnabinRoy&hide_border=true&area=true)
+&nbsp;![Harashnabin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=thaanirs&hide_border=true&area=true)
 <br><hr>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarashnabinRoy&show_icons=true&locale=en&theme-radical"/> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarashnabinRoy&theme-radical"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanirs&show_icons=true&locale=en&theme-radical"/> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaanirs&theme-radical"/>
 <!-- <br><br><hr><br>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HarashnabinRoy&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical)"/> -->
 
