@@ -1,6 +1,6 @@
 <!-- <h3 align="center">It’s not a bug. It’s an undocumented feature!</h3> -->
 <h2> Hello Fellow < Coders /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
-<br><hr>
+<br>
 <div size='20px'> Hi! My name is Harashnabin. Thank You for taking the time to view my GitHub Profile</div>
 </h1>
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=HarashnabinRoy.HarashnabinRoy) -->
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **NextJs**
 
-- 🌱 I’m currently learning **NextJS and Tailwindcss**
+- 🌱 I’m currently learning **NextJS and Web3**
 
 - 👯 I’m looking to collaborate on **Full-stack Web-dev projects**
 
