@@ -38,8 +38,13 @@
 &nbsp;![Harashnabin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HarashnabinRoy&hide_border=true&area=true)
 <br><hr>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarashnabinRoy&show_icons=true&locale=en&theme-radical"/> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarashnabinRoy&theme-radical"/>
-<!-- <br><br><hr><br>
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HarashnabinRoy&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical)"/> -->
+&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HarashnabinRoy&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="450px"  />
+&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarashnabinRoy&theme=dark" alt="Harashnabin Roy Streaks" />
+
+<!-- <br><br><hr><br> -->
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarashnabinRoy&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 
 
