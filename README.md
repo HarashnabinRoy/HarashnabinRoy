@@ -23,7 +23,7 @@
 
 <br>
 
-<h1 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
+<h1 align="left">Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> </h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/harashnabin-roy-8893731b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harashnabin Roy" height="30" width="40" /></a>
 </p>
