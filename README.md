@@ -36,7 +36,7 @@
 <br>
 
 <!--&nbsp;![Harashnabin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HarashnabinRoy&hide_border=true&area=true)-->
-&nbsp;([![Harashnabin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarashnabinRoy&theme=react-dark)](https://github.com/HarashnabinRoy/github-readme-activity-graph))
+&nbsp;[![Harashnabin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarashnabinRoy&theme=react-dark)](https://github.com/HarashnabinRoy/github-readme-activity-graph)
 <br><hr>
 
 &nbsp;
